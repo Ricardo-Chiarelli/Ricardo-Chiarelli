@@ -1,5 +1,5 @@
 
-# 👋 Hello, Ricardo Henrique do Santos
+# 👋 Hello, I'm Ricardo Henrique do Santos
 
  Software Developer | Information Systems Student | São Paulo, Brazil
 
