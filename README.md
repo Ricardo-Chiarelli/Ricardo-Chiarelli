@@ -6,7 +6,7 @@
 Welcome to my profile! I am a passionate software development student on a journey to push my limits within the technological realm. My experience is centered around crafting robust APIs with maximum efficiency.
 ## 📚 Summary
 
-- Information Systems Student at UAM.
+- Information Systems Student at FIAP.
 - Backend-focused Software Developer.
 - Specialized in creating efficient infrastructures and robust APIs.
 - Committed to continuous learning to stay ahead in the ever-evolving tech landscape.
