@@ -25,6 +25,6 @@ My goal is to enhance my skills in back-end software development, seeking challe
 ## 🌐💻 Let's Connect
 Let's merge our ideas with strategic execution and unwavering dedication to turn them into reality. Together, we aim to create a lasting impact on the technological landscape.
 
-  <a href="https://www.linkedin.com/in/ricardo-santos-588119261/" target="_blank">
+  <a href="https://www.linkedin.com/in/ricardo-chiarelli/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
